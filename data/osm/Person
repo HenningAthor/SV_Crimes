@@ -1,0 +1,140 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.9 76e5016d",
+  "osm3s": {
+    "timestamp_osm_base": "2021-09-16T10:26:43Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "relation",
+  "id": 2528733,
+  "bounds": {
+    "minlat": 36.2360820,
+    "minlon": -79.1537360,
+    "maxlat": 36.5421540,
+    "maxlon": -78.7948278
+  },
+  "members": [
+    {
+      "type": "node",
+      "ref": 158267341,
+      "role": "admin_centre",
+      "lat": 36.3937519,
+      "lon": -78.9827881
+    },
+    {
+      "type": "node",
+      "ref": 316979022,
+      "role": "label",
+      "lat": 36.3967816,
+      "lon": -78.9882995
+    },
+    {
+      "type": "way",
+      "ref": 187755916,
+      "role": "outer",
+      "geometry": [
+         { "lat": 36.2421242, "lon": -79.1537360 },
+         { "lat": 36.2529502, "lon": -79.1532838 },
+         { "lat": 36.2947818, "lon": -79.1512662 },
+         { "lat": 36.3495895, "lon": -79.1484927 },
+         { "lat": 36.3918907, "lon": -79.1462429 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 795508106,
+      "role": "outer",
+      "geometry": [
+         { "lat": 36.3918907, "lon": -79.1462429 },
+         { "lat": 36.4387528, "lon": -79.1436287 },
+         { "lat": 36.4688446, "lon": -79.1417830 },
+         { "lat": 36.5001426, "lon": -79.1399386 },
+         { "lat": 36.5417578, "lon": -79.1378893 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 223619561,
+      "role": "outer",
+      "geometry": [
+         { "lat": 36.5418078, "lon": -78.7961981 },
+         { "lat": 36.5418521, "lon": -78.8045227 },
+         { "lat": 36.5418709, "lon": -78.8187397 },
+         { "lat": 36.5418272, "lon": -78.8484273 },
+         { "lat": 36.5419444, "lon": -78.9019246 },
+         { "lat": 36.5419720, "lon": -78.9145430 },
+         { "lat": 36.5419740, "lon": -78.9154200 },
+         { "lat": 36.5421130, "lon": -78.9420090 },
+         { "lat": 36.5420790, "lon": -78.9422540 },
+         { "lat": 36.5421351, "lon": -78.9634276 },
+         { "lat": 36.5421540, "lon": -78.9705770 },
+         { "lat": 36.5421230, "lon": -78.9718140 },
+         { "lat": 36.5420955, "lon": -78.9793814 },
+         { "lat": 36.5418190, "lon": -79.0555793 },
+         { "lat": 36.5415680, "lon": -79.1247360 },
+         { "lat": 36.5415330, "lon": -79.1260780 },
+         { "lat": 36.5417578, "lon": -79.1378893 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 795508854,
+      "role": "outer",
+      "geometry": [
+         { "lat": 36.3891055, "lon": -78.7987073 },
+         { "lat": 36.4324813, "lon": -78.7975063 },
+         { "lat": 36.4689975, "lon": -78.7965399 },
+         { "lat": 36.5000826, "lon": -78.7956539 },
+         { "lat": 36.5265213, "lon": -78.7948278 },
+         { "lat": 36.5418078, "lon": -78.7961981 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 187755919,
+      "role": "outer",
+      "geometry": [
+         { "lat": 36.2360820, "lon": -78.8021390 },
+         { "lat": 36.2495122, "lon": -78.8018879 },
+         { "lat": 36.3891055, "lon": -78.7987073 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 187755905,
+      "role": "outer",
+      "geometry": [
+         { "lat": 36.2393147, "lon": -78.9506164 },
+         { "lat": 36.2421242, "lon": -79.1537360 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 187755911,
+      "role": "outer",
+      "geometry": [
+         { "lat": 36.2393147, "lon": -78.9506164 },
+         { "lat": 36.2360820, "lon": -78.8021390 }
+      ]
+    }
+  ],
+  "tags": {
+    "admin_level": "6",
+    "border_type": "county",
+    "boundary": "administrative",
+    "name": "Person County",
+    "nist:fips_code": "37145",
+    "nist:state_fips": "37",
+    "place": "county",
+    "population": "39259",
+    "type": "boundary",
+    "wikidata": "Q508271",
+    "wikipedia": "en:Person County, North Carolina"
+  }
+}
+
+  ]
+}
